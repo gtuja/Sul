@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sul", "Sul\Sul.csproj", "{0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowCase", "ShowCase\ShowCase.csproj", "{038AE826-D7BB-45A4-AE90-E4B450195DB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowCaseWpf", "ShowCaseWpf\ShowCaseWpf.csproj", "{9B82E815-1015-4765-B0A3-DE601C0F5996}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{038AE826-D7BB-45A4-AE90-E4B450195DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{038AE826-D7BB-45A4-AE90-E4B450195DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{038AE826-D7BB-45A4-AE90-E4B450195DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B82E815-1015-4765-B0A3-DE601C0F5996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B82E815-1015-4765-B0A3-DE601C0F5996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B82E815-1015-4765-B0A3-DE601C0F5996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B82E815-1015-4765-B0A3-DE601C0F5996}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
